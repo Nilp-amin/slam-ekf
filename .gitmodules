@@ -1,0 +1,4 @@
+[submodule "lib/ekf"]
+	path = lib/ekf
+	url = git@github.com:Nilp-amin/ekf.git
+	branch = master
